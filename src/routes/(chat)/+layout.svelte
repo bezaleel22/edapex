@@ -18,8 +18,8 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="Edufy AI - Your AI Assistant for Education" />
-  <title>Edufy AI</title>
+  <meta name="description" content="Edapex AI - Your AI Assistant for Education" />
+  <title>Edapex AI</title>
   <link rel="icon" href={favicon} />
 </svelte:head>
 
